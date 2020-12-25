@@ -4,7 +4,8 @@ O Chemcraft é um programa gráfico para trabalhar com cálculos de química qu�
 
 Conforme solicitado por um amigo, onde o mesmo necessitava extrair valores de um arquivo de log do software ChemCraft, pois o processo manual era de demasiado tempo, com isso criei um script em python para extração desses valores e exibisse na tela. Tentei comentar o máximo possível dentro do código para facilitar o entendimento.
 
-A versão 1.0 informa somente um valor único e a versão 1.1 colocasse uma lista de valores, no caso para insersão de vários valores. 
+A versão 1.0 informa somente um valor único e a versão 1.1 colocasse uma lista de valores, no caso para insersão de vários valores.
+
 --->>> V1.0
 1. Ao executar o arquivo, deve se digitar o nome do arquivo a se analisar com a extensao e tudo. Se digitar errado, ele fechará!
 2. Digite primeiro o valor da coluna e depois a linha.
